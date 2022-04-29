@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "template_data_repo"
+name = "housing_data_exploration"
 version = "0.1.0"
-description = "Standardised template for mysociety data repositories"
+description = "Exploration of housing data for prototype week."
 authors = []
 
 [tool.poetry.dependencies]
@@ -12,7 +12,7 @@ data_common = { path = "src/data_common/", develop = true }
 pytest = "^7.1.1"
 
 [tool.poetry.scripts]
-notebook = 'template_data_repo.cli:main'
+notebook = 'housing_data_exploration.cli:main'
 
 [notebook.settings]
 default_page_title = "Settings file defined title"
