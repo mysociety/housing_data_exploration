@@ -1,12 +1,10 @@
 
-# housing_data_exploration
-
-[![badge](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mysociety/housing_data_exploration/HEAD)
+# Housing data exploration
 
 Exploration of housing data for prototype week.
 
-This repository is avaliable online at https://github.com/mysociety/housing_data_exploration
+Data in `data/raw/external` is the LSOA download from (carbon.place/data/)[https://www.carbon.place/data/]
 
-If Github Pages are enabled, the URL is: https://mysociety.github.io/housing_data_exploration/
+This repository is available online at https://github.com/mysociety/housing_data_exploration
 
-Instructions on using the features of this notebook are avaliable in [notebooks-readme.md](notebooks-readme.md).
+Instructions on using the features of this notebook are available in [notebooks-readme.md](notebooks-readme.md).
